@@ -2,6 +2,8 @@
 The EFI I use for my H370 HD3 i7-8700 Hackintosh.
 *hopefully i didn't fuck over my computer*
 
+You easily download the lastest version of this EFI folder by looking in the releases section.
+
 ## Note.
 My "custom" EFI is only built for systems running an Gigabyte H370 HD3, an i7-8700 CPU, and an Gigabyte RX 590. The reason why I'm talking about this is because in some of the settings in the config.plist file, some settings may not match your configzation.
 
