@@ -13,9 +13,9 @@ Any other things you want to change is all up to you, just make sure you know wh
 
 ## What does and doesn't work.
 ### Working:
-* Networking.
-* HDMI, DVI, DisplayPort.
-* Sound (USB or not).
+* Networking (I don't remember anything I needed to do for this?...).
+* HDMI, DVI, and DisplayPort (thanks to Lilu and WEG).
+* HDMI and DisplayPort sound (thanks to AppleALC).
 * Video editing, and Photoshopping.
 ### Not working:
 * Sleep - want to get this fixed even know I don't use it.
