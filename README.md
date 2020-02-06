@@ -17,5 +17,8 @@ Any other things you want to change is all up to you, just make sure you know wh
 * HDMI, DVI, and DisplayPort (thanks to Lilu and WEG).
 * HDMI and DisplayPort sound (thanks to AppleALC).
 * Video editing, and Photoshopping.
+* iMessage and other iCloud services.
 ### Not working:
 * Sleep - want to get this fixed even know I don't use it.
+### Unknown:
+* AirDrop and other WiFi services on macOS.
