@@ -12,10 +12,10 @@ Also your SIMBIOS/BoardSerialNumber, /SerialNumber, /SmUUID, and RtVariables/MLB
 Any other things you want to change is all up to you, just make sure you know what you're doing.
 
 ## What does and doesn't work.
-### Working
+### Working:
 * Networking.
 * HDMI, DVI, DisplayPort.
 * Sound (USB or not).
 * Video editing, and Photoshopping.
-### Not working
+### Not working:
 * Sleep - want to get this fixed even know I don't use it.
