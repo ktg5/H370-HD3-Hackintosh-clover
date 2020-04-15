@@ -20,4 +20,4 @@ Any other things you want to change is all up to you, just make sure you know wh
 ### Not working:
 * Sleep - want to get this fixed even know I don't use it.
 ### Unknown:
-* AirDrop and other WiFi services on macOS.
+* AirDrop and other WiFi services
