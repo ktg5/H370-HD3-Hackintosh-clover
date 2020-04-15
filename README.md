@@ -1,6 +1,5 @@
 # ktg5's H370 HD3, i7-8700 Hackintosh EFI.
 The EFI I use for my H370 HD3 i7-8700 Hackintosh.
-*hopefully i didn't fuck over my computer*
 
 [You can easily download the latest version of this EFI folder by looking in the releases section.](https://github.com/ktg5/H370-HD3-i7-8700-Hackintosh/releases)
 
