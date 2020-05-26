@@ -10,6 +10,8 @@ Also your SIMBIOS/BoardSerialNumber, /SerialNumber, /SmUUID, and RtVariables/MLB
 
 Any other things you want to change is all up to you, just make sure you know what you're doing.
 
+If you are switching EFIs; I recommend you reinstall macOS as there could be some issues when booting your original installation of macOS if you have one.
+
 ## What does and doesn't work.
 ### Working:
 * Networking (I don't remember anything I needed to do for this?...).
