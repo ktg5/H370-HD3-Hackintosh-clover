@@ -1,7 +1,7 @@
 # ktg5's H370 HD3, i7-8700 Hackintosh EFI. (CLOVER)
-This EFI goes unused as of Sep. 14, 2020 as the first release of my OpenCore EFI has been released. [You can find more find about this new EFI here.](https://github.com/ktg5/H370-HD3-Hackintosh-OC)
+## This EFI goes unused as of Sep. 14, 2020 as the first release of my OpenCore EFI has been released. [You can find more find about this new EFI here.](https://github.com/ktg5/H370-HD3-Hackintosh-OC)
 
-The EFI I use for my H370 HD3 i7-8700 Hackintosh.
+The EFI I used for my H370 HD3 i7-8700 Hackintosh.
 
 [You can easily download the latest version of this EFI folder by looking in the releases section.](https://github.com/ktg5/H370-HD3-i7-8700-Hackintosh-CLOVER/releases)
 
